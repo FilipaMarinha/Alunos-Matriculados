@@ -28,8 +28,8 @@ Informação de um filme - "endpoint" /movies/int:id:
 #### HTML (com apontadores para tutorial W3 Schools)
 
 - <a href ...>: [links](https://www.w3schools.com/html/html_links.asp)
-- <table> <th> <tr> <td>: [formatação de tabelas](https://www.w3schools.com/html/html_tables.asp)
-- <ul>, <ol> <li>: [formatação de listas](https://www.w3schools.com/html/html_lists.asp)
+- <table>, <th>, <tr>, <td>: [formatação de tabelas](https://www.w3schools.com/html/html_tables.asp)
+- <ul>, <ol>, <li>: [formatação de listas](https://www.w3schools.com/html/html_lists.asp)
 - <h1>, <h2>, ...: [cabeçalhos de nível 1, 2, ...](https://www.w3schools.com/html/html_headings.asp)
 - <p>: [parágrafos](https://www.w3schools.com/html/html_paragraphs.asp)
 - <b>, <i>, ...: [formatação de texto em negrito, itálico, ...](https://www.w3schools.com/html/html_formatting.asp)
