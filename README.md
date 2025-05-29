@@ -1,4 +1,4 @@
-## Desenvolvimento da Base de Dados Alunos Matriculados 2017/2018
+# Desenvolvimento da Base de Dados Alunos Matriculados 2017/2018
 
 ## Programação
 
@@ -22,7 +22,7 @@ Informação de um filme - "endpoint" /movies/int:id:
 #### Jinja
 
 - {{ x.attr }} : expande para valor de atributo  attr para variável x -  [[ver documentação]](https://jinja.palletsprojects.com/en/3.0.x/templates/#variables) 
-- {% for x in items %} ... {% endfor %}: iteração `for`sobre lista de valores items [[ver documentação]](https://jinja.palletsprojects.com/en/3.0.x/templates/#for)
+- {% for x in items %} ... {% endfor %}: iteração `for` sobre lista de valores items [[ver documentação]](https://jinja.palletsprojects.com/en/3.0.x/templates/#for)
 
 
 #### HTML (com apontadores para tutorial W3 Schools)
